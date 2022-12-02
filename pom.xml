@@ -54,6 +54,9 @@
         <module>design-17-iterator</module>
         <module>design-18-visitor</module>
         <module>design-19-memento</module>
+        <module>design-20-command</module>
+        <module>design-21-interpreter</module>
+        <module>design-22-mediator</module>
     </modules>
 
     <properties>
