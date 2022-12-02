@@ -49,6 +49,9 @@
         <module>design-12-observer</module>
         <module>design-13-template</module>
         <module>design-14-strategy</module>
+        <module>design-15-chain</module>
+        <module>design-16-state</module>
+        <module>design-17-iterator</module>
     </modules>
 
     <properties>
