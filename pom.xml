@@ -52,6 +52,8 @@
         <module>design-15-chain</module>
         <module>design-16-state</module>
         <module>design-17-iterator</module>
+        <module>design-18-visitor</module>
+        <module>design-19-memento</module>
     </modules>
 
     <properties>
