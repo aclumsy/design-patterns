@@ -24,15 +24,20 @@
  *  without your world, I don't want to stay for a moment.
  */
 
-package cn.aclumsy;
+package cn.aclumsy.design.strategy.demo04;
+
+import cn.aclumsy.design.strategy.demo02.Receipt;
 
 /**
  * @author Aclumsy
  * @version 1.0.0
  * @since 2020-09-07
  */
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
+public interface ReceiptHandlerStrategy {
+
+    /**
+     * 处理回执信息
+     * @param receipt 回执信息
+     */
+    void handleReceipt(Receipt receipt);
 }
